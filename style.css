@@ -1,0 +1,46 @@
+
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    max-width: 700px;
+    margin: auto;
+
+  }
+
+body {
+      min-width: 500px;
+      background-color: #e0eeee;
+  }
+  .profileBody {
+    display: inline-block;
+    background-color: white;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 590px;
+  }
+  h1{
+		margin-left:30px;
+		font-size:44px;
+	    /*font-family: "Times New Roman", Times, serif;*/
+  }
+  h2{
+margin-left:30px;
+		/*font-family: "Times New Roman", Times, serif;*/
+  }
+  p
+  {
+		margin-left:30px;
+		/*font-family: "Times New Roman", Times, serif;*/
+}
+p.head {
+		font:  bold 16px/34px Times, serif;
+}
+ul.li{
+		list-style-type: circle;
+}
+ .des{
+		/*font-family: "Times New Roman", Times, serif;*/
+ }
+ a{
+		/*font-family: "Times New Roman", Times, serif;*/
+	}
